@@ -1,2 +1,1 @@
-Protecting Cloud Data with Dynamic Security Via Network Coding
-The title "Protecting Cloud Data with Dynamic Security via Network Coding" means using smart and flexible methods to keep cloud data safe. Here, network coding is a technique that mixes and sends data in a special way so it’s harder to hack and easier to recover if something goes wrong. Dynamic security means the system can quickly adjust its protection based on new threats. Together, this approach helps keep cloud data secure, even if there are attacks or system failures.
+
