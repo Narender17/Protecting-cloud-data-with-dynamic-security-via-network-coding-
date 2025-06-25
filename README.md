@@ -1,1 +1,2 @@
 # Protecting cloud data with dynamic security via network coding
+This project focuses on keeping cloud data safe using a smart and flexible security method called network coding. Instead of just locking the data with passwords or encryption, we break it into pieces, mix it in a special way, and send it across different paths. This makes it harder for hackers to steal or damage the data. Even if some parts are lost or attacked, we can still recover the original data. It’s a modern and powerful way to protect information in the cloud.
